@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QQ20240826-193102.png</file>
+        <file>style.qss</file>
+        <file>QQ20240826-202147.png</file>
+        <file>QQ20240827-201510.png</file>
+        <file>backcentral.jpg</file>
+        <file>weather_back/all.png</file>
+        <file>weather_back/cloudy.png</file>
+        <file>weather_back/day-rain.png</file>
+        <file>weather_back/day-snow.png</file>
+        <file>weather_back/day-sun.png</file>
+        <file>天气图标/OIP-C.jfif</file>
+        <file>天气图标/天气-大雨.png</file>
+        <file>天气图标/天气-多云.png</file>
+        <file>天气图标/天气-风速.png</file>
+        <file>天气图标/天气图标_晴.png</file>
+        <file>天气图标/天气-小雨.png</file>
+        <file>天气图标/天气-中雨.png</file>
+        <file>天气图标/阴.png</file>
+        <file>天气图标/QQ20240830-094953.png</file>
+        <file>天气图标/湿度图标.png</file>
+        <file>天气图标/PM2.5_面.png</file>
+        <file>天气图标/notice.png</file>
+        <file>天气图标/雪.png</file>
+        <file>天气图标/雾霾.png</file>
+        <file>city.txt</file>
+    </qresource>
+</RCC>

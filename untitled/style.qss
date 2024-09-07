@@ -1,0 +1,17 @@
+QLineEdit {
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding: 0 8px;
+    background: white;
+    selection-background-color: darkgray;
+}
+
+
+QPushButton#evilButton { background-color: red }
+
+#centralwidget
+{
+    border: 2px solid gray;
+    border-image:url(":/backcentral.jpg");
+    border-radius: 15px;
+}
